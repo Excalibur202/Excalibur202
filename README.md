@@ -5,7 +5,7 @@
 
 ### Contacts:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rui-pedro-goncalves-oliveira-1b5528197/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' color='blue'>](https://www.linkedin.com/in/rui-pedro-goncalves-oliveira-1b5528197/)  
 
 <!---
 Excalibur202/Excalibur202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
