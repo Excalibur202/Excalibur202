@@ -24,7 +24,7 @@
 
 ### Contacts:
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40' color='blue'>](https://www.linkedin.com/in/rui-pedro-goncalves-oliveira-1b5528197/)  
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40' color='blue'>](https://pt.linkedin.com/in/ruipedrogoncalvesoliveira?trk=people-guest_people_search-card)  
 
 <!---
 Excalibur202/Excalibur202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
