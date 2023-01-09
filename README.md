@@ -19,7 +19,7 @@
 
 <br/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Excalibur202">
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Excalibur202"> -->
 <br/>
 
 ### Contacts:
