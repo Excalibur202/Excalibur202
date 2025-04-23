@@ -1,7 +1,7 @@
 <h1> 👋 Hi, I’m Rui Pedro </h1>
 <pre>
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Web Fullstack
 - 💞️ I’m looking to collaborate on any project
 </pre>
 <h3>Languages and Tools I've worked with:</h3>
