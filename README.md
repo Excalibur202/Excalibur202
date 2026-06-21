@@ -20,10 +20,7 @@
     <h3>Backend</h2>
     <div>
         <span>
-            <img src="./icons/C.svg" width="48">
-            <img src="./icons/CS.svg" width="48">
-            <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-            <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+            <img src="https://skillicons.dev/icons?i=git,c,cs,cpp,java,nodejs"/>
         </span>
     </div>
 <!-- <div>
