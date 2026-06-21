@@ -14,6 +14,7 @@
 </pre>
 <h3>Tech Stack</h3>
 <div>
+    <span><img src="https://skillicons.dev/icons?i=html,css,bootstrap"/></span>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" align='left' width="70" height="30" >
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" align= 'left' width="80" height="30">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" align='left' width="70" height="30">
