@@ -12,12 +12,12 @@
         - 🌱 I’m currently learning Web Fullstack
         - 💞️ I’m looking to collaborate on any project
     </pre>
-    <h3>Tech Stack</h3>
-    <h2>Frontend</h2>
+    <h2>Tech Stack</h3>
+    <h3>Frontend</h2>
     <div>
          <span><img src="https://skillicons.dev/icons?i=html,css,bootstrap"/></span>
     </div>
-    <h2>Backend</h2>
+    <h3>Backend</h2>
     <div>
         <span>
             <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
