@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1> 👋 Hi, I’m Rui Pedro </h1>
-## About
+    <h2>About</h2>
 <pre>
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Fullstack
