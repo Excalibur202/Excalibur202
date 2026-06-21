@@ -19,10 +19,11 @@
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" align='left' width="85" height="30">
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" align='left'width="150" height="30">
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" align='left'width="80" height="30">
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" align='left'width="100" height="30"/>
 </div>
 <br>
 <br>
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" align='left'width="100" height="30"/>
+
 
 <br/>
 <br/>
@@ -31,7 +32,7 @@
 
 ### Contacts:
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40' color='blue'>](https://pt.linkedin.com/in/ruipedrogoncalvesoliveira?trk=people-guest_people_search-card)  
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40' color='blue'>](www.linkedin.com/in/ruipgoliveira)  
 
 </body>
 </html>
