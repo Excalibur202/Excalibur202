@@ -6,12 +6,13 @@
 </head>
 <body>
     <h1> 👋 Hi, I’m Rui Pedro </h1>
+## About
 <pre>
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Fullstack
 - 💞️ I’m looking to collaborate on any project
 </pre>
-<h3>Languages and Tools I've worked with:</h3>
+<h3>Tech Stack</h3>
 <div>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" align='left' width="70" height="30" >
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" align= 'left' width="80" height="30">
@@ -30,8 +31,8 @@
 
 ### Contacts:
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40' color='blue'>](https://www.linkedin.com/in/ruipgoliveira/)  
-
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40' color='blue'>](https://www.linkedin.com/in/ruipgoliveira/) 
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"><a href="https://www.facebook.com/pedro.gloma"></a>
 </body>
 </html>
 <!---
