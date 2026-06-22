@@ -26,7 +26,7 @@
     <h2>Tools</h2>
     <div>
         <span>
-            <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode"/>
+            <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,unity"/>
         </span>
     </div>
 <!-- <div>
