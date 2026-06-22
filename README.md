@@ -8,14 +8,14 @@
     <h1> 👋 Hi, I’m Rui Pedro </h1>
     <h2>About</h2>
     <pre>
-        - 👀 I’m interested in Programming
-        - 🌱 I’m currently learning Web Fullstack
-        - 💞️ I’m looking to collaborate on any project
+     - 👀 I’m interested in Programming
+     - 🌱 I’m currently learning Web Fullstack
+     - 💞️ I’m looking to collaborate on any project
     </pre>
     <h2>Tech Stack</h3>
     <h3>Frontend</h2>
     <div>
-         <span><img src="https://skillicons.dev/icons?i=html,css,bootstrap"/></span>
+         <span><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/></span>
     </div>
     <h3>Backend</h2>
     <div>
@@ -34,10 +34,7 @@
 </div> -->
 <br>
 <br>
-<br/>
-<br/>
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Excalibur202"> -->
-<br/>
 
 ### Contacts:
 
