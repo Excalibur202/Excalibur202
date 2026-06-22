@@ -20,7 +20,13 @@
     <h3>Backend</h2>
     <div>
         <span>
-            <img src="https://skillicons.dev/icons?i=git,c,cs,cpp,java,nodejs"/>
+            <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,nodejs,express"/>
+        </span>
+    </div>
+    <h2>Tools</h2>
+    <div>
+        <span>
+            <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode"/>
         </span>
     </div>
 <!-- <div>
